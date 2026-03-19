@@ -1,10 +1,18 @@
 ![ACM-POTD](https://img.shields.io/badge/ACM-POTD-blue)
-# ACM-POTD
 
-This is my daily coding practice repository.
+# ✨ ACM-POTD
 
-I solve one problem every day and upload the solution here.
+🚀 Daily coding practice repository  
 
-Trying to stay consistent and improve step by step.
+---
 
-Mansi Mishra (BTech CSE)
+I solve one problem every day and upload the solution here.  
+
+Trying to stay consistent and improve step by step 💻  
+
+---
+
+👩‍💻 Mansi Mishra  
+🎓 BTech CSE  
+
+✨ *Keep learning, keep growing!*
