@@ -10,7 +10,7 @@ Removes duplicate elements from a sorted array in-place using a two-pointer appr
 
 🖼️ Screenshot
 
-"Result" (Screenshot/IMG_20260322_222801.jpg)
+![Result](Screenshot/IMG_20260322_222801.jpg)
 
 ---
 
