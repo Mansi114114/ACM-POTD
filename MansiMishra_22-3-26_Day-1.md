@@ -1,6 +1,6 @@
 📅 Day 1 – ACM POTD
 
- Remove Duplicates from Sorted Array
+🧩Remove Duplicates from Sorted Array
 
 📝 Description
 
