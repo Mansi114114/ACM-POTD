@@ -2,7 +2,7 @@ Day 2 – ACM POTD
 
 🧩 Two Sum
 
-- Description
+- Description :
 Find two indices such that their elements add up to the target using a brute-force approach.
 ---
 
