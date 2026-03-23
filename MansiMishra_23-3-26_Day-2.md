@@ -6,7 +6,7 @@ Day 2 – ACM POTD
 Find two indices such that their elements add up to the target using a brute-force approach.
 ---
 
-🖼️ Screenshot
+## Screenshot
 
 ![Result](Screenshot/IMG_20260323_232120.jpg)
 
