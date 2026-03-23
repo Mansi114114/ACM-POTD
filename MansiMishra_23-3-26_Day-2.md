@@ -8,7 +8,7 @@ Find two indices such that their elements add up to the target using a brute-for
 
 🖼️ Screenshot
 
-![Result](Screenshot/IMG_20260322_222801.jpg)
+![Result](Screenshot/IMG_20260323_232120.jpg)
 
 ---
 
