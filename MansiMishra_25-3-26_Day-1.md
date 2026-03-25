@@ -9,7 +9,7 @@ This solution uses the XOR approach, which efficiently finds the missing number 
 
 ## Screenshot
 
-![Result](Screenshot/IMG_20260323_232120.jpg)
+![Result](Screenshot/IMG_20260325_221553.jpg)
 
 ---
 
