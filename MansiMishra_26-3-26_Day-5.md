@@ -3,8 +3,8 @@ Day 5 – ACM POTD
 🧩 Product of Array Except Self
 
 - Description :
-Given an array containing n distinct numbers in the range [0, n], find the one number that is missing from the array.
-This solution uses the XOR approach, which efficiently finds the missing number by cancelling out common elements.
+Given an array nums, compute a new array where each element is the product of all other elements except itself, without using division.
+This solution first store the product of elements before each index, then multiply it with the product of elements after each index, achieving an O(n) time solution.
 ---
 
 ## Screenshot
