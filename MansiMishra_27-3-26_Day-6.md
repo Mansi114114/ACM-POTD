@@ -3,8 +3,7 @@ Day 6 – ACM POTD
 🧩 Check if N and its Double Exist
 
 - Description :
-Given an array nums, compute a new array where each element is the product of all other elements except itself, without using division.
-This solution first store the product of elements before each index, then multiply it with the product of elements after each index, achieving an O(n) time solution.
+Given an array, check if any two different elements exist such that one is double the other. The solution uses two nested loops to compare all pairs and returns true if arr[i] == 2 * arr[j]; otherwise, it returns false.
 ---
 
 ## Screenshot
