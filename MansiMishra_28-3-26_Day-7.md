@@ -3,7 +3,7 @@ Day 7 – ACM POTD
 🧩 Increasing Triplet Subsequence
 
 - Description :
-Given an array, check if any two different elements exist such that one is double the other. The solution uses two nested loops to compare all pairs and returns true if arr[i] == 2 * arr[j]; otherwise, it returns false.
+The solution checks if there exists an increasing triplet in the array. It uses two arrays to store the minimum value on the left and maximum value on the right for each element. If any element has a smaller value before it and a greater value after it, a triplet exists.
 ---
 
 ## Screenshot
