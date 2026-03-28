@@ -17,13 +17,24 @@ Given an array, check if any two different elements exist such that one is doubl
 class Solution {
 public:
     bool increasingTriplet(vector<int>& nums) {
-        int first = INT_MAX, second = INT_MAX;
-        for (int num : nums) {
-            if (num <= first) {
-                first = num;
-            } else if (num <= second) {
-                second = num;
-            } else {
+        int n = nums.size();
+        if (n < 3){
+            return false;}
+
+        vector<int> LMin(n), RMax(n);
+
+        LMin[0] = nums[0];
+        for (int i = 1; i < n; i++) {
+            LMin[i] = min(LMin[i-1], nums[i]);
+        }
+
+        RMax[n-1] = nums[n-1];
+        for (int i = n-2; i >= 0; i--) {
+            RMax[i] = max(RMax[i+1], nums[i]);
+        }
+
+        for (int i = 1; i < n-1; i++) {
+            if (LMin[i-1] < nums[i] && nums[i] < RMax[i+1]) {
                 return true;
             }
         }
