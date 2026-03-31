@@ -8,7 +8,7 @@ The middle of a linked list is found by first counting the total number of nodes
 
 ## Screenshot
 
-![Result](Screenshot/Screenshot 2026-03-31 231511.png)
+![Result](Screenshot/Screenshot231511.png)
 
 ---
 
