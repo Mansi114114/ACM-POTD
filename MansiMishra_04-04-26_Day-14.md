@@ -9,7 +9,7 @@ Store values in array and use two pointers to check palindrome.
 
 ## Screenshot
 
-![Result](Screenshot/IMG_20260403_230437.jpg)
+![Result](Screenshot/IMG_20260404_225341.jpg)
 
 ---
 
