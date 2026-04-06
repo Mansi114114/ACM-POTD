@@ -1,6 +1,6 @@
 Day 16 – ACM POTD
 
-🧩 Implement Queue using stack
+🧩 Implement Queue using stacks
 
 - Description :
  Elements are pushed into one stack and transferred to another to reverse order, enabling FIFO behavior.
