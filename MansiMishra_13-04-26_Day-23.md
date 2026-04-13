@@ -15,7 +15,7 @@ Day 23 – ACM POTD
 
 ## Code
 ```cpp
-  lass Solution {
+  class Solution {
 public:
     int findJudge(int n, vector<vector<int>>& trust) {
         vector<int> count (n+1,0);
