@@ -8,7 +8,7 @@ To find the maximum amount of money that can be robbed without robbing two conse
 
 ## Screenshot
 
-![Result](Screenshot/)
+![Result](Screenshot/IMG_20260424_231723.jpg)
 
 ---
 
